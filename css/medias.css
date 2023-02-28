@@ -4,6 +4,7 @@
       padding-top: 5rem;
       overflow: hidden;
       height: 100vh;
+      overflow-y: hidden;
     }
 
     .tarjeta{
@@ -23,7 +24,7 @@
 
     .tarjetaDer{
       padding: 0.5rem 1.2rem;
-
+     
     }
     .tarjetaDer__encabezado{
       margin: 0.5rem 0;
@@ -40,6 +41,7 @@
       font-size: 1rem;
       line-height: 1.5rem;
       font-size: 0.83rem;
+      
     }
 
     .tarjetaDer__precio{
