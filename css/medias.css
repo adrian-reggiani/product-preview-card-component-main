@@ -1,7 +1,14 @@
   @media (max-width:768px){
+    main{
+      align-items: flex-start;
+      padding-top: 5rem;
+      overflow: hidden;
+      height: 100vh;
+    }
+
     .tarjeta{
       width: 90%;
-      height: 65vh;
+      height: 39rem;
       display: block;
       min-width: 290px;
       max-width: 400px;
